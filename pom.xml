@@ -28,7 +28,7 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/ShadowOfLies/shadowfile-maven-plugin</url>
+        <url>https://github.com/ShadowOfLies/shadowfile-maven-plugin.git</url>
     </scm>
 
     <dependencies>
